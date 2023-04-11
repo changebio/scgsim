@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "scgsim"
+  site-url: "https://changebio.github.io/scgsim"
+  description: "single-cell gene simulation"
+  repo-branch: main
+  repo-url: "https://github.com/changebio/scgsim"
